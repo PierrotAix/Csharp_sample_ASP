@@ -17,7 +17,7 @@
             <header>en-tête de page</header>
             <nav></nav>
             <section id="contenu">
-                <h1>Bienvenue sur Planet Gamers</h1>
+                <h1>Bienvenue sur Planet Gamers </h1>
                 <p><a href="Ma_Vue.aspx">Planet Gamers</a> est un site Web communautaire basé sur l&#39;univers des <span class="auto-style1">jeux vidéos</span>.</p>
                 <p>Vous souhaitez présenter un jeu, donner une critique ou tout simplement <strong>discuter</strong> ? Planet Gamers est fait pour vous !</p>
                 <p>Nous vous proposons <strong>articles</strong>, <strong>vidéos</strong> et <strong>forums</strong>. N&#39;hésitez pas à participer à la vie de cette communauté.</p>
