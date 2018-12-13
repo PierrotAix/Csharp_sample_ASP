@@ -1,0 +1,44 @@
+﻿/* L'étoile "*" désigne l'intégralité des éléments de la page */
+* {
+    font-family: 'Segoe UI Light';
+}
+
+header {
+    background-color: #247C71;
+    width: 900px;
+    height: 90px;
+}
+
+#page {
+    width: 900px;
+    margin: auto; /* auto centre l'élément */
+}
+
+h1 {
+    font-size: 20px;
+}
+
+/* La navigation */
+
+nav {
+    width: 900px;
+}
+
+/* Le contenu */
+section#contenu {
+    width: 700px;
+    float: left;
+}
+
+aside {
+    background-color: gray;
+    width: 200px;
+    float: left;
+}
+
+/* Le pied de page */
+footer {
+    background-color: #247C71;
+    width: 900px;
+    clear: both; /* clear empêche qu'un élément puisse flotter (float) à côté de ce dernier */
+}

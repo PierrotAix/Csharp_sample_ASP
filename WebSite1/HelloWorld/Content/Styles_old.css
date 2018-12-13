@@ -1,0 +1,19 @@
+﻿body {
+    color:blue
+}
+h1 {
+    color: cornflowerblue;
+}
+.Valeur {
+    color:green;
+    font-weight: bold;
+}
+#logo {
+    font-size: 30px;
+}
+.maDIV{
+    width: 200px;
+    background-color: cyan;
+    padding: 10px; /* marge exterieure de 10 pixels */
+    margin: 20px; /* marge interieure de 20 pixels*/
+}
